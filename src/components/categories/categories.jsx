@@ -23,7 +23,7 @@ const categories = [
     id: 4,
     title: "womens",
     imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
-    routes: "shop/womens",
+    route: "shop/womens",
   },
   {
     id: 5,
