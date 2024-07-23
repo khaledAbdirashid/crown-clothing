@@ -1,0 +1,13 @@
+.product-list-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 10px;
+  row-gap: 50px;
+}
+
+.producttype-title {
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 28px;
+}
